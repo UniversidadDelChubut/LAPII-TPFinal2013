@@ -1,4 +1,4 @@
-LAPIITrabajoPracticoFinal2013
-=============================
+LAPII-TPFinal2013
+=================
 
 Cátedra Laboratorio Avanzado de Programación - Trabajo Práctico Final 2013
